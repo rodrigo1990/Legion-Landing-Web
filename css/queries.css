@@ -1,0 +1,56 @@
+@media screen and (min-width: 780px) and (max-width: 990px) {
+	
+}
+
+@media screen and (min-width: 801px) {
+	
+}
+
+@media screen and (max-width: 769px) {
+	h1
+	{
+		text-align: center !important;
+		font-size: 30px !important;
+	}
+
+	#mail
+	{
+		font-size: 20px !important;
+	}
+
+	.separador
+	{
+		display: none !important;
+	}
+
+	#llamanos
+	{
+		font-size: 35px !important;
+	}
+
+	#telefono_llamanos
+	{
+		font-size: 40px !important;
+	}
+
+	.text_center_mobile
+	{
+		text-align: center !important;
+	}
+
+	#central_footer a
+	{
+		display: block !important;
+		width: 100% !important;
+		margin-bottom: 5px;
+	}
+
+	#telefono_llamanos
+	{
+		margin-bottom: 20px !important;
+	}
+}
+
+@media screen and (max-width: 420px) {
+	
+}
