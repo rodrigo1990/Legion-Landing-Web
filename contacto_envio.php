@@ -17,7 +17,7 @@
     $mail->SMTPAuth = true;
     $mail->Host = "162.255.162.75"; // SMTP a utilizar. Por ej. smtp.elserver.com
     $mail->Username = "rodrigo@legioncreativa.com"; // Correo completo a utilizar
-    $mail->Password = "Javierjavier1990"; // Contraseña
+    $mail->Password = "Reynoso123"; // Contraseña
     $mail->Port = "465"; // Puerto a utilizar
     $mail->SMTPSecure = 'ssl'; // instead of tls
 			

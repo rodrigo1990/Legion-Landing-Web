@@ -790,7 +790,7 @@ ul li {
       </div>
     </footer>
 
-  
+  <script src="contacto.js"></script>
   <script src="js/jquery-latest.min.js" type="text/javascript" ></script>
   <script async src="js/slider.js" ></script>
   <script async src="js/bootstrap.min.js" ></script>

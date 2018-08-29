@@ -84,7 +84,7 @@ header('Content-Type: text/html; charset=utf-8');
         <div class="col-sm-12 text-center" style="padding-top: 100px; padding-bottom: 100px;">
           <div style="font-size: 38px; color: #ffc50f; font-weight: 700;">¡GRACIAS POR COMUNICARTE<br />CON NOSOTROS!</div>
           <div style="width: 60px; height: 5px; background: #00aeef; margin: 15px auto;"></div>
-          <span style="font-size: 29px; font-weight: 300;">Te llamaremos a la bravedad</span>
+          <span style="font-size: 29px; font-weight: 300;">Te llamaremos a la brevedad</span>
         </div>
       </div>
     </div>
