@@ -652,9 +652,9 @@ ul li {
               <input class="campo_contacto" type="text" name="telefono" placeholder="Teléfono" required />
               <input class="campo_contacto" type="email" name="email" placeholder="Mail" required />
               <textarea class="campo_contacto" name="mensaje" style="height:70px;" placeholder="Mensaje" required></textarea>
-              <input type="number" id="cant_sec" name="cantidadSecciones" class="campo_contacto  form-control  text-center" style="float:left;width:40%;margin-left: 15%;text-align:left;" placeholder="Cantidad de secciones">
+              <input type="number" id="cant_sec" name="cantidadSecciones" class="campo_contacto  form-control  text-center" style="margin-left: 15%;text-align:left;" placeholder="Cantidad de secciones">
               <label for="autoadmin" class="left" style="margin-left: 3%;">¿El sitio sera autoadministrable?</label> 
-              <input type="checkbox" name="autoadmin" id="autoadmin"  value="1" style="float: left;margin-left: 3%;">
+              <input type="checkbox" name="autoadmin" id="autoadmin"  value="1" style="margin-left: 3%;">
 
               
               <div class="row" style="margin-top: 1%;">
