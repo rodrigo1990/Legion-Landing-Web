@@ -29,6 +29,7 @@ header('Content-Type: text/html; charset=utf-8');
     </script>
 <script>(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src="https://s.cliengo.com/weboptimizer/59cd54cee4b09220e41154c9/59cd54d4e4b09220e41154d6.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script>
 <script>(function(d,e,j,h,f,c,b){d.GoogleAnalyticsObject=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)},d[f].l=1*new Date();c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create","UA-42302381-1","legioncreativa.com.ar");ga("send","pageview");</script>
+<!-- Global site tag (gtag.js) - Google Ads: 833252964 --><script async src="https://www.googletagmanager.com/gtag/js?id=AW-833252964"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-833252964'); </script> 
 </head>
 <body>
 <header>
